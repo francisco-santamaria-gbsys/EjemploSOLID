@@ -1,0 +1,11 @@
+C:\Users\Fran\source\repos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.exe
+C:\Users\Fran\source\repos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.deps.json
+C:\Users\Fran\source\repos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+C:\Users\Fran\source\repos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+C:\Users\Fran\source\repos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.dll
+C:\Users\Fran\source\repos\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\Fran\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csprojAssemblyReference.cache
+C:\Users\Fran\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\Users\Fran\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\Users\Fran\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.dll
+C:\Users\Fran\source\repos\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.pdb
